@@ -1,0 +1,6 @@
+# Project exclude paths
+/venv/
+/.vscode/
+.idea
+/main.py
+/main2.py
